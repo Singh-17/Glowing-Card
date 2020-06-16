@@ -1,2 +1,3 @@
 # Glowing-Card
-glowing card is made by HTML , CSS and JS 
+some of India's gem are tried to bring together 
+run the code and see it
